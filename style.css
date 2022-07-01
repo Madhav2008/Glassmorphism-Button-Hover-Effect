@@ -18,7 +18,7 @@ body {
 
 .container {
     position: relative;
-    width: 1000px;
+    width: 600px;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
