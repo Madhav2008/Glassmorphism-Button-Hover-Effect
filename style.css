@@ -20,7 +20,7 @@ body {
     position: relative;
     width: 600px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     flex-wrap: wrap;
     margin: 20px;
     padding: 20px 0;
