@@ -23,4 +23,6 @@ body {
     justify-content: space-around;
 }
 
-.container .btn {position: relative;}
+.container .btn {
+    position: relative;
+}
