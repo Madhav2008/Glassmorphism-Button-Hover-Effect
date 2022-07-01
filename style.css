@@ -31,7 +31,7 @@ body {
 }
 
 .container .btn a {
-    position: relative;
+    position: absolute;
     width: 155px;
     height: 50px;
     margin: 20px;
