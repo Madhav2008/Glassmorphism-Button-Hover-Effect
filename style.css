@@ -7,7 +7,8 @@
     font-family: 'Roboto', sans-serif;
 }
 
-body {position: relative;
+body {
+    position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
