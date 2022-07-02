@@ -77,5 +77,6 @@ body {
     content: '';
     position: absolute;
     left: 50%;
-    transform: translateX(-50%);bottom: -5px;
+    transform: translateX(-50%);
+    bottom: -5px;
 }
