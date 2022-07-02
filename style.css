@@ -70,5 +70,5 @@ body {
 }
 
 .container .btn:hover a::before {
-    transform: skewX(45deg) translateX(0);
+    transform: skewX(45deg) translateX(100px);
 }
