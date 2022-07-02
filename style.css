@@ -57,4 +57,4 @@ body {
     letter-spacing: 3px;
 }
 
-.container .btn a::before
+.container .btn a::before{}
