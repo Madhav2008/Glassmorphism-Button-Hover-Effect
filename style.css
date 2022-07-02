@@ -49,5 +49,5 @@ body {
     font-weight: 400;
     letter-spacing: 1px;
     text-decoration: none;
-    overflow: hidden;
+    overflow: hidden;transition: ;
 }
