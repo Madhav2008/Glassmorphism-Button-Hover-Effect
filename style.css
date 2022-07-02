@@ -38,5 +38,6 @@ body {
     height: 100%;
     display: flex;
     justify-content: center;
-    align-items: center;background: rgba(red, green, blue, alpha);
+    align-items: center;
+    background: rgba(red, green, blue, alpha);
 }
