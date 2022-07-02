@@ -84,7 +84,8 @@ body {
     height: 10px;
     background: #f00;
     border-radius: 10px;
-    transition: 0.5s;transition-delay: 0s;
+    transition: 0.5s;
+    transition-delay: 0s;
 }
 
 .container .btn:hover::before {
