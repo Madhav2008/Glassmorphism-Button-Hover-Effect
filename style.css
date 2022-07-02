@@ -73,4 +73,6 @@ body {
     transform: skewX(45deg) translateX(200%);
 }
 
-.container .btn::before {content: '';}
+.container .btn::before {
+    content: '';
+}
