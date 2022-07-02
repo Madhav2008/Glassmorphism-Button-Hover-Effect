@@ -53,4 +53,6 @@ body {
     transition: 0.5s;
 }
 
-.container .btn:hover a {letter-spacing: 3px;}
+.container .btn:hover a {
+    letter-spacing: 3px;
+}
