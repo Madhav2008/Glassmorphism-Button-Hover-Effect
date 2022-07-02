@@ -66,7 +66,7 @@ body {
     height: 100%;
     background: linear-gradient(to left, rgba(255, 255, 255, 0.15), transparent);
     transform: skewX(45deg) translateX(0);
-    transition: 0.5min;
+    transition: 0.5s;
 }
 
 .container .btn:hover a::before {
