@@ -91,5 +91,6 @@ body {
     bottom: 0;
     height: 50%;
     width: 80%;
-    border-radius: 30px;transition-delay: 0.5s;
+    border-radius: 30px;
+    transition-delay: 0.5s;
 }
