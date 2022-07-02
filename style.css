@@ -88,5 +88,5 @@ body {
 }
 
 .container .btn:hover::before {
-    bottom: 50%;
+    bottom: 0;
 }
