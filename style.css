@@ -68,7 +68,7 @@ body {
     transform: skewX(45deg) translateX(0);
 }
 
-.container .btn a::before {
+.container .btn:hover a::before {
     content: '';
     position: absolute;
     top: 0;
