@@ -48,5 +48,6 @@ body {
     z-index: 1;
     font-weight: 400;
     letter-spacing: 1px;
-    text-decoration: none;overflow: hidden;
+    text-decoration: none;
+    overflow: hidden;
 }
