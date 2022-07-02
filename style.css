@@ -74,5 +74,6 @@ body {
 }
 
 .container .btn::before {
-    content: '';position: absolute;
+    content: '';
+    position: absolute;
 }
