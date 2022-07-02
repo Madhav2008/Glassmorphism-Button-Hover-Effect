@@ -87,4 +87,6 @@ body {
     transition: 0.5s;
 }
 
-.container .btn:hover::before {left: 50%;}
+.container .btn:hover::before {
+    left: 50%;
+}
