@@ -50,7 +50,7 @@ body {
     letter-spacing: 1px;
     text-decoration: none;
     overflow: hidden;
-    transition: 0.5s;
+    transition: 0.5s;backdrop-filter: ;
 }
 
 .container .btn:hover a {
