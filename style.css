@@ -76,5 +76,5 @@ body {
 .container .btn::before {
     content: '';
     position: absolute;
-    left: 50%;transform: ;
+    left: 50%;transform: translateX();
 }
