@@ -82,5 +82,6 @@ body {
     width: 30px;
     height: 10px;
     background: #f00;
-    border-radius: 10px;transition: 0.5s;
+    border-radius: 10px;
+    transition: 0.5s;
 }
