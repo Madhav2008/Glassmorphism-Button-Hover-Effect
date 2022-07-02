@@ -90,5 +90,5 @@ body {
 .container .btn:hover::before {
     bottom: 0;
     height: 50%;
-    height: 80%;
+    width: 80%;
 }
