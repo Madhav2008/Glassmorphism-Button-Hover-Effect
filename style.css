@@ -90,5 +90,6 @@ body {
 .container .btn:hover::before {
     bottom: 0;
     height: 50%;
-    width: 80%;border-radius: 30px;
+    width: 80%;
+    border-radius: 30px;
 }
