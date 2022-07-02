@@ -44,5 +44,6 @@ body {
     border-top: 1px solid rgba(255, 255, 255, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 30px;
-    color: #fff;z-index: 1;
+    color: #fff;
+    z-index: 1;
 }
