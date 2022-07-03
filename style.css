@@ -108,7 +108,7 @@ body {
     transition-delay: 0s;
 }
 
-.container .btn:hover::before {
+.container .btn:hover::after {
     bottom: 0;
     height: 50%;
     width: 80%;
