@@ -122,5 +122,5 @@ body {
 .container .btn:nth-child(1)::after {
     background: #ff1f71;
     box-shadow: 0 0 5px #ff1f71,
-    0 0 5px #ff1f71;
+        0 0 5px #ff1f71;
 }
