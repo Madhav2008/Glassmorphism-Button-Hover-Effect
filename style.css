@@ -118,4 +118,4 @@ body {
     transition-delay: 0.5s;
 }
 
-.container .btn:nth-child(1)::before
+.container .btn:nth-child(1)::before,
