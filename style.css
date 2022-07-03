@@ -140,7 +140,7 @@ body {
 .container .btn:nth-child(3)::after {
     background: #2bd2ff;
     box-shadow: 0 0 5px #2bd2ff,
-        0 0 15px #ff1f71,
+        0 0 15px #2bd2ff,
         0 0 30px #ff1f71,
         0 0 60px #ff1f71;
 }
