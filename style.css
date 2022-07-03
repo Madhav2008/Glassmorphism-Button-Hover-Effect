@@ -116,4 +116,6 @@ body {
     width: 80%;
     border-radius: 30px;
     transition-delay: 0.5s;
-}.container .btn:nth-child(1)::before
+}
+
+.container .btn:nth-child(1)::before
