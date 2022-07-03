@@ -101,7 +101,7 @@ body {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    bottom: -5px;
+    top: -5px;
     width: 30px;
     height: 10px;
     background: #f00;
