@@ -111,7 +111,7 @@ body {
 }
 
 .container .btn:hover::after {
-    bottom: 0;
+    top: 0;
     height: 50%;
     width: 80%;
     border-radius: 30px;
